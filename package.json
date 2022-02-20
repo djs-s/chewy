@@ -1,0 +1,33 @@
+{
+  "name": "chewy",
+  "version": "1.0.0",
+  "description": "a completed discord . js v12 bot",
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djs-s/chewy.git"
+  },
+  "keywords": [
+    "chewy",
+    "adding"
+  ],
+  "author": "djs-s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djs-s/chewy/issues"
+  },
+  "homepage": "https://github.com/djs-s/chewy#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
